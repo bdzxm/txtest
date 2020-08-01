@@ -1,3 +1,0 @@
-select
-*
-from test where dt = '2020-07-20' and id>20
